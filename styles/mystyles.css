@@ -1,0 +1,70 @@
+body {
+    background-image: url("../images/img/green-bkgd.png");
+}
+
+h2{
+    font-family: Georgia, Tahoma, sans-serif;
+    color: black;
+}
+
+ul{
+    list-style-type: square;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+ol{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+} 
+
+.trees{
+    margin: 25px;
+    float: left;
+    text-align: center;
+    width: 150px;
+}
+
+p{
+    font-family: serif, 'Times New Roman'
+}
+
+.post-title{
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+    font-size: large;
+    text-align: center;
+}
+
+.top{
+    text-align: center;
+}
+
+.contact{
+    text-align: center;
+}
+
+.indent{
+    float: right;
+    width: 65%;
+}
+
+.vids{
+    height: 200px;
+    width: 50%;
+}
+
+.footer {
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    width:100%;
+}
+#Jake{
+    float: left;
+    width: 20%;
+    height: 60%;
+    object-fit: contain;
+    padding-left: 25px;
+    padding-bottom: 35px;
+}

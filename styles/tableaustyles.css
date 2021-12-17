@@ -1,0 +1,62 @@
+.theader{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: whitesmoke;
+    text-align: center;
+    
+}
+
+.tbody{
+    font-family: cursive;
+    color: whitesmoke;
+}
+
+.tfooter{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: whitesmoke;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(58, 58, 58);
+}
+
+h1{
+        color: whitesmoke;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: whitesmoke;
+}
+
+li a {
+    display: block;
+    color: #fcfcfc;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+  
+a:link {
+    color: rgb(255, 255, 255);
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: rgb(65, 97, 241);
+}
+
+.model{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
